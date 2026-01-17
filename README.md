@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Skander Boughnimi, Software Engineering student from <img src="https://cdn-icons-png.flaticon.com/512/197/197540.png" width="13"/> <b>Tunis, Tunisia</b>. </p>
+<p>Welcome to my page! </br> I'm Skander Boughnimi, Software Engineering student from <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13"/> <b>Tunis, Tunisia</b>. </p>
 
 <h3>Things I code with</h3>
 <p>
@@ -86,7 +86,6 @@
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/Sakamata0" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/skander-boughnimi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://www.facebook.com/boughnimi.skander" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="mailto:iskanderboughnimi@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
