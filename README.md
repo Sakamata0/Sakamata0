@@ -66,7 +66,7 @@
 
 <h3>🏅 Competitive Programming</h3>
 <p>
-  <a href="https://codeforces.com/profile/YourUsername" target="_blank">
+  <a href="https://codeforces.com/profile/eSTOPz" target="_blank">
     <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-Pupil-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
@@ -88,6 +88,7 @@
 <p>
   <a href="https://github.com/Sakamata0" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/skander-boughnimi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://www.facebook.com/boughnimi.skander" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="mailto:iskanderboughnimi@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
