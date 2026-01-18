@@ -44,13 +44,21 @@ with a strong background in **mathematics, physics, and computer science**.
 
 ## 📊 GitHub Stats
 
-![GitHub Followers](https://img.shields.io/github/followers/Sakamata0?style=for-the-badge&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/Sakamata0?style=for-the-badge&logo=github)
+<p align="center">
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/Sakamata0?style=for-the-badge&logo=github" alt="Followers" />
+  
+  <!-- Public repos -->
+  <img src="https://img.shields.io/github/public-repos/Sakamata0?style=for-the-badge&logo=github" alt="Repos" />
+  
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/Sakamata0?style=for-the-badge&logo=github" alt="Stars" />
+</p>
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=Sakamata0&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sakamata0&theme=tokyonight&hide_border=true)
-
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Sakamata0&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sakamata0&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
