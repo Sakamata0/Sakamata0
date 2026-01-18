@@ -81,7 +81,10 @@
 
 <h3>📊 GitHub Stats</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakamata0&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakamata0&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakamata0&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <h3>Where to find me</h3>
