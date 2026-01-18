@@ -44,10 +44,11 @@ with a strong background in **mathematics, physics, and computer science**.
 
 ## 📊 GitHub Stats
 
-<!-- Followers, Stars, Profile Views -->
+<!-- Followers, Stars, Profile Views all in one line -->
 <img src="https://img.shields.io/github/followers/Sakamata0?style=for-the-badge&logo=github" alt="Followers" />
 <img src="https://img.shields.io/github/stars/Sakamata0?style=for-the-badge&logo=github" alt="Stars" />
 <img src="https://komarev.com/ghpvc/?username=Sakamata0&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
-<!-- GitHub Streak -->
+<!-- GitHub Streak on its own line -->
+<br>
 <img src="https://nirzak-streak-stats.vercel.app/?user=Sakamata0&theme=dark&hide_border=true" alt="GitHub Streak" />
