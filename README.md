@@ -48,9 +48,6 @@ with a strong background in **mathematics, physics, and computer science**.
   <!-- Followers -->
   <img src="https://img.shields.io/github/followers/Sakamata0?style=for-the-badge&logo=github" alt="Followers" />
   
-  <!-- Public Repos -->
-  <img src="https://img.shields.io/github/public-repos/Sakamata0?style=for-the-badge&logo=github" alt="Repos" />
-  
   <!-- Stars -->
   <img src="https://img.shields.io/github/stars/Sakamata0?style=for-the-badge&logo=github" alt="Stars" />
 </p>
@@ -63,8 +60,4 @@ with a strong background in **mathematics, physics, and computer science**.
 <p align="center">
   <!-- GitHub Streak -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=Sakamata0&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sakamata0&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
