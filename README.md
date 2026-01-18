@@ -50,11 +50,9 @@ with a strong background in **mathematics, physics, and computer science**.
   
   <!-- Stars -->
   <img src="https://img.shields.io/github/stars/Sakamata0?style=for-the-badge&logo=github" alt="Stars" />
-</p>
-
-<p align="center">
+  
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Sakamata0&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-Viewers-blueviolet?style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
