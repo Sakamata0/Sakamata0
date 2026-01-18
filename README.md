@@ -44,14 +44,10 @@ with a strong background in **mathematics, physics, and computer science**.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakamata0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Skander's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakamata0&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-</div>
+![Skander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakamata0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sakamata0&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamata0&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=445" alt="Top Languages" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamata0&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sakamata0&label=Profile%20Views&color=blueviolet&style=flat-square" />
