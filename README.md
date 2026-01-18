@@ -44,18 +44,10 @@ with a strong background in **mathematics, physics, and computer science**.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/Sakamata0?style=for-the-badge&logo=github" alt="Followers" />
-  
-  <!-- Stars -->
-  <img src="https://img.shields.io/github/stars/Sakamata0?style=for-the-badge&logo=github" alt="Stars" />
-  
-  <!-- Profile Views (dynamic) -->
-  <img src="https://komarev.com/ghpvc/?username=Sakamata0&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
+<!-- Followers, Stars, Profile Views -->
+<img src="https://img.shields.io/github/followers/Sakamata0?style=for-the-badge&logo=github" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Sakamata0?style=for-the-badge&logo=github" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=Sakamata0&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sakamata0&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+<!-- GitHub Streak -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=Sakamata0&theme=dark&hide_border=true" alt="GitHub Streak" />
