@@ -1,5 +1,5 @@
 # 👋 Hi, nice to see you!
-I'm **Skander Boughnimi**, a **Software Engineering student** from 🇹🇳 **Tunis, Tunisia**,  
+I'm **Skander Boughnimi**, a **Software Engineering student** from <img src="https://flagcdn.com/w20/tn.png" width="13"/> **Tunis, Tunisia**,  
 with a strong background in **mathematics, physics, and computer science**.
 
 🔭 Currently studying **Software Engineering** at the Faculty of Sciences of Tunis  
