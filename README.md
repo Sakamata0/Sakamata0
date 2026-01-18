@@ -4,7 +4,7 @@ I'm **Skander Boughnimi**, a **Software Engineering student** from 🇹🇳 **Tu
 with a strong background in **mathematics, physics, and computer science**.
 
 🔭 Currently studying **Software Engineering** at the Faculty of Sciences of Tunis  
-🎯 Completed an **Integrated Preparatory Program** (Math, Physics & CS)  
+🎯 Completed an **Integrated Preparatory Program** (Math, Physics & Computer Science)  
 💡 Interested in **scientific computing**, **data analysis**, and **distributed systems**  
 🌱 Actively improving my skills in **algorithms** and **competitive programming**
 
@@ -34,13 +34,13 @@ with a strong background in **mathematics, physics, and computer science**.
 
 ## 🧪 Selected Projects
 - **Flairr** – Social platform focused on creative journeys and community collaboration  
-  *(Angular, TypeScript, Node.js, REST APIs)*
+  *Angular, TypeScript, Node.js, REST APIs*
 
 - **Swardy** – Multi-user financial management platform with role-based access control  
-  *(Angular 20, Supabase, PostgreSQL, Chart.js)*
+  *Angular 20, Supabase, PostgreSQL, Chart.js*
 
 - **Web Games** – Collection of browser-based games focusing on game logic and interaction  
-  *(JavaScript, HTML, CSS)*
+  *JavaScript, HTML, CSS*
 
 ---
 
@@ -58,11 +58,11 @@ with a strong background in **mathematics, physics, and computer science**.
 ---
 
 ## 📊 GitHub Stats
-![Skander's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakamata0&show_icons=true&theme=dark&hide_border=false)
+![Skander's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakamata0&show_icons=true&theme=dark&hide_border=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Sakamata0&theme=dark&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Sakamata0&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamata0&theme=dark&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamata0&theme=dark&hide_border=true&layout=compact)
 
 ---
 
