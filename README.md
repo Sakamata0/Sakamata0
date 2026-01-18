@@ -45,12 +45,12 @@ with a strong background in **mathematics, physics, and computer science**.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakamata0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Skander's GitHub Stats" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakamata0&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakamata0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Skander's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakamata0&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamata0&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamata0&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=445" alt="Top Languages" />
 </div>
 
 <p align="center">
