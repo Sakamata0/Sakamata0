@@ -44,11 +44,12 @@ with a strong background in **mathematics, physics, and computer science**.
 
 ## 📊 GitHub Stats
 
-![Skander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakamata0&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Followers](https://img.shields.io/github/followers/Sakamata0?style=for-the-badge&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/Sakamata0?style=for-the-badge&logo=github)
+
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=Sakamata0&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sakamata0&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamata0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sakamata0&label=Profile%20Views&color=blueviolet&style=flat-square" />
