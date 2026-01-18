@@ -1,5 +1,4 @@
 # 👋 Hi, nice to see you!
-
 I'm **Skander Boughnimi**, a **Software Engineering student** from 🇹🇳 **Tunis, Tunisia**,  
 with a strong background in **mathematics, physics, and computer science**.
 
@@ -29,10 +28,8 @@ with a strong background in **mathematics, physics, and computer science**.
 ## 🧪 Selected Projects
 - **Flairr** – Social platform focused on creative journeys and community collaboration  
   *Angular, TypeScript, Node.js, REST APIs*
-
 - **Swardy** – Multi-user financial management platform with role-based access control  
   *Angular 20, Supabase, PostgreSQL, Chart.js*
-
 - **Web Games** – Collection of browser-based games focusing on game logic and interaction  
   *JavaScript, HTML, CSS*
 
@@ -46,11 +43,15 @@ with a strong background in **mathematics, physics, and computer science**.
 🇹🇳 Arabic – Native  
 
 ## 📊 GitHub Stats
-![Skander's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakamata0&show_icons=true&theme=dark&hide_border=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Sakamata0&theme=dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakamata0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Skander's GitHub Stats" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakamata0&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180em" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamata0&theme=dark&hide_border=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamata0&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sakamata0&label=Profile%20Views&color=blueviolet&style=flat-square" />
