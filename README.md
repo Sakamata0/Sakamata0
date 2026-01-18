@@ -9,8 +9,8 @@ with a strong background in **mathematics, physics, and computer science**.
 
 ## 🌐 Where to find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skander-boughnimi)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/boughnimi.skander)
 [![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:iskanderboughnimi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Sakamata0)
 
 ## 💻 Tech Stack
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
