@@ -8,14 +8,10 @@ with a strong background in **mathematics, physics, and computer science**.
 💡 Interested in **scientific computing**, **data analysis**, and **distributed systems**  
 🌱 Actively improving my skills in **algorithms** and **competitive programming**
 
----
-
 ## 🌐 Where to find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skander-boughnimi)
 [![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:iskanderboughnimi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Sakamata0)
-
----
 
 ## 💻 Tech Stack
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -30,8 +26,6 @@ with a strong background in **mathematics, physics, and computer science**.
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
----
-
 ## 🧪 Selected Projects
 - **Flairr** – Social platform focused on creative journeys and community collaboration  
   *Angular, TypeScript, Node.js, REST APIs*
@@ -42,12 +36,8 @@ with a strong background in **mathematics, physics, and computer science**.
 - **Web Games** – Collection of browser-based games focusing on game logic and interaction  
   *JavaScript, HTML, CSS*
 
----
-
 ## 🏅 Competitive Programming
 [![Codeforces](https://img.shields.io/badge/Codeforces-Pupil-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/eSTOPz)
-
----
 
 ## 💬 Languages
 🇬🇧 English – Fluent  
@@ -55,16 +45,12 @@ with a strong background in **mathematics, physics, and computer science**.
 🇩🇪 German – Proficient  
 🇹🇳 Arabic – Native  
 
----
-
 ## 📊 GitHub Stats
 ![Skander's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakamata0&show_icons=true&theme=dark&hide_border=true)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Sakamata0&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamata0&theme=dark&hide_border=true&layout=compact)
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sakamata0&label=Profile%20Views&color=blueviolet&style=flat-square" />
