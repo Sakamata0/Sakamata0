@@ -39,7 +39,7 @@ with a strong background in **mathematics, physics, and computer science**.
 ## 💬 Languages
 🇬🇧 English – Fluent  
 🇫🇷 French – Fluent  
-🇩🇪 German – Proficient  
+🇩🇪 German – Basic  
 🇹🇳 Arabic – Native  
 
 ## 📊 GitHub Stats
